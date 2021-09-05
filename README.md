@@ -52,7 +52,7 @@ really develop a full understanding of why they encountered the problem in the f
 
 Repetition and steady progress is the name of the game, slowly building knowledge on top of prior
 knowledge until you develop a firm understanding of basic concepts. A lot of the real acquired hard
-skill expertise in software development comes from experience and 
+skill expertise in software development comes from experience and
 
 ## Resources
 
@@ -68,13 +68,17 @@ The best way to find resources is to search for them using [Google](https://www.
 * [repl](https://replit.com) - online sandbox for experimenting with code in various languages,
   useful for sharing examples with other developers or testing out something you want to verify the
   behavior of
+* [CodePen](https://codepen.io/) - online sandbox for HTML, JavaScript and CSS that streamlines web
+  development by showing the combined output of the three resources on-the-fly
 
-### Resources
+### Additional resources
 
 * [StackOverflow](https://www.stackoverflow.com) - the #1 place for questions and answers about
   programming
 * [MDN](https://developer.mozilla.org/en-US/) - online documentation provided by Mozilla with
   information about HTML, JavaScript and CSS features
+* [W3Schools](https://www.w3schools.com/) - contains reference material for HTML, CSS and
+  JavaScript (as well as Python and SQL), as well as some basic tutorials
 
 ## Terminology
 
